@@ -1,5 +1,5 @@
 require "ep/version"
 
-module Ep
+module EP
   # Your code goes here...
 end

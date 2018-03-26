@@ -5,7 +5,7 @@ require "ep/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "ep"
-  spec.version       = Ep::VERSION
+  spec.version       = EP::VERSION
   spec.authors       = ["Ethan"]
   spec.email         = ["ethan@unth"]
 
